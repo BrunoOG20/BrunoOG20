@@ -4,14 +4,14 @@
 - 🏡 I live in Brazil!;
 - 💻 Studying front-end and back-end;
 
-- ✅ Learned technologies:
+- ✅ Learned technologies:<br>
   ▶ Phython;<br>
   ▶ JavaScript;<br>
   ▶ HTML;<br>
   ▶ CSS;<br>
   ▶ NodeJS;
   
-- 📚 Studying technologies:
+- 📚 Studying technologies:<br>
   ▶ ReactJS;<br>
   ▶ ReactNative;<br>
   ▶ Typescript;<br>
