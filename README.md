@@ -5,16 +5,16 @@
 - 💻 Studying front-end and back-end;
 
 - ✅ Learned technologies:
-  ▶ Phython;
-  ▶ JavaScript;
-  ▶ HTML;
-  ▶ CSS;
+  ▶ Phython;<br>
+  ▶ JavaScript;<br>
+  ▶ HTML;<br>
+  ▶ CSS;<br>
   ▶ NodeJS;
   
 - 📚 Studying technologies:
-  ▶ ReactJS;
-  ▶ ReactNative;
-  ▶ Typescript;
+  ▶ ReactJS;<br>
+  ▶ ReactNative;<br>
+  ▶ Typescript;<br>
   
 - 🎓 Graduating in information system;
 
