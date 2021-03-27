@@ -5,7 +5,7 @@
 - 💻 Studying front-end and back-end;
 
 - ✅ Learned technologies:<br>
-  ▶ Phython;<br>
+  ▶ Python;<br>
   ▶ JavaScript;<br>
   ▶ HTML;<br>
   ▶ CSS;<br>
