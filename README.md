@@ -2,7 +2,7 @@
 
 - 👋 Hello, my name is Bruno, I am 17 years old!;
 - 🏡 I live in Brazil!;
-- 💻 Studying front-end and back-end;
+- 💻 Studying front-end;
 
 - ✅ Learned technologies:<br>
   ▶ Python;<br>
