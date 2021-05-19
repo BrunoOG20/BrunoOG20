@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to my Profile!</h1>
 
-- 👋 Hello, my name is Bruno, I am 17 years old!;
+- 👋 Hello, my name is Bruno, I am 18 years old!;
 - 🏡 I live in Brazil!;
 - 💻 Studying front-end;
 
