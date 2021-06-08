@@ -10,6 +10,7 @@
   ▶ HTML;<br>
   ▶ CSS;<br>
   ▶ NodeJS;
+  ▶ Lua;
   
 - 📚 Studying technologies:<br>
   ▶ ReactJS;<br>
