@@ -9,7 +9,7 @@
   ▶ JavaScript;<br>
   ▶ HTML;<br>
   ▶ CSS;<br>
-  ▶ NodeJS;
+  ▶ NodeJS;<br>
   ▶ Lua;
   
 - 📚 Studying technologies:<br>
