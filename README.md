@@ -2,7 +2,7 @@
 
 - 👋 Hello, my name is Bruno, I am 18 years old!;
 - 🏡 I live in Brazil!;
-- 💻 Studying front-end;
+- 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
 - ✅ Learned technologies:<br>
   ▶ Python;<br>
@@ -17,7 +17,7 @@
   ▶ ReactNative;<br>
   ▶ Typescript;<br>
   
-- 🎓 Graduating in information system;
+- 🎓I am currently graduating in Information Systems at <a href="https://www.ifes.edu.br/">IFES</a> - Institudo Federal do Espírito Santo , Brazil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-orletti-gava-8312231ba/)](https://www.linkedin.com/in/bruno-orletti-gava-8312231ba/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bruno_gava/)](https://www.instagram.com/bruno_gava/)
