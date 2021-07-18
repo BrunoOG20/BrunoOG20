@@ -23,6 +23,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-orletti-gava-8312231ba/)](https://www.linkedin.com/in/bruno-orletti-gava-8312231ba/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bruno_gava/)](https://www.instagram.com/bruno_gava/)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=BrunoOG20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <!---
 BrunoOG20/BrunoOG20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
