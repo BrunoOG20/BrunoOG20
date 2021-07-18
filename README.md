@@ -14,6 +14,7 @@
   
 - 📚 Studying technologies:<br>
   ▶ ReactJS;<br>
+  ▶ NextJS;<br>
   ▶ ReactNative;<br>
   ▶ Typescript;<br>
   
