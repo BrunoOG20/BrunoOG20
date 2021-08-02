@@ -17,6 +17,7 @@
   ▶ NextJS;<br>
   ▶ ReactNative;<br>
   ▶ Typescript;<br>
+  ▶ Java;<br>
   
 - 🎓I am currently graduating in Information Systems at <a href="https://www.ifes.edu.br/">IFES</a> - Institudo Federal do Espírito Santo , Brazil
 
