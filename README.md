@@ -4,7 +4,7 @@
 - 🏡 I live in Brazil!;
 - 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
-- 👉 Portfolio: <a href="https://bit.ly/BrunoOG">Portfolio Link</a> 
+- 👉 Portfolio: <a href="https://bit.ly/BrunoOG20">Portfolio Link</a> 
 
 - ✅ Learned technologies:<br>
   ▶ Python;<br>
